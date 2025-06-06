@@ -10,8 +10,8 @@ In order to use run "todo h" and check out the output:
 usage: todo [arg]
 h: print this help
 num: edit todo list num days into future
-c: clear old dates
 dd/mm/yyyy: edit date's todo list, can use dd/ or dd/mm as well
+c: clear old dates
 ```
 For instance "todo 0" will edit the current day's todo list, "todo 5/7" will edit the todo list for July 5th of the current year, and "todo" will print a todo list.
 
